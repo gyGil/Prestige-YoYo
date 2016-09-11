@@ -1,0 +1,5 @@
+C:\Users\Ggil4920\Desktop\m2_asql_project\m2_asql_project\PrestigeYoYo\DAL\bin\Debug\DAL.dll
+C:\Users\Ggil4920\Desktop\m2_asql_project\m2_asql_project\PrestigeYoYo\DAL\bin\Debug\DAL.pdb
+C:\Users\Ggil4920\Desktop\m2_asql_project\m2_asql_project\PrestigeYoYo\DAL\obj\Debug\DAL.dll
+C:\Users\Ggil4920\Desktop\m2_asql_project\m2_asql_project\PrestigeYoYo\DAL\obj\Debug\DAL.pdb
+C:\Users\Ggil4920\Desktop\m2_asql_project\m2_asql_project\PrestigeYoYo\DAL\obj\Debug\DALlib.csprojResolveAssemblyReference.cache

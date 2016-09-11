@@ -1,0 +1,11 @@
+C:\Users\Ggil4920\Desktop\m2_asql_project\m2_asql_project\SampleQueueReader\SampleQueueReader\bin\Debug\SampleQueueReader.exe.config
+C:\Users\Ggil4920\Desktop\m2_asql_project\m2_asql_project\SampleQueueReader\SampleQueueReader\bin\Debug\SampleQueueReader.exe
+C:\Users\Ggil4920\Desktop\m2_asql_project\m2_asql_project\SampleQueueReader\SampleQueueReader\bin\Debug\SampleQueueReader.pdb
+C:\Users\Ggil4920\Desktop\m2_asql_project\m2_asql_project\SampleQueueReader\SampleQueueReader\bin\Debug\DAL.dll
+C:\Users\Ggil4920\Desktop\m2_asql_project\m2_asql_project\SampleQueueReader\SampleQueueReader\bin\Debug\DAL.pdb
+C:\Users\Ggil4920\Desktop\m2_asql_project\m2_asql_project\SampleQueueReader\SampleQueueReader\obj\Debug\SampleQueueReader.csprojResolveAssemblyReference.cache
+C:\Users\Ggil4920\Desktop\m2_asql_project\m2_asql_project\SampleQueueReader\SampleQueueReader\obj\Debug\SampleQueueReader.frmMain.resources
+C:\Users\Ggil4920\Desktop\m2_asql_project\m2_asql_project\SampleQueueReader\SampleQueueReader\obj\Debug\SampleQueueReader.Properties.Resources.resources
+C:\Users\Ggil4920\Desktop\m2_asql_project\m2_asql_project\SampleQueueReader\SampleQueueReader\obj\Debug\SampleQueueReader.csproj.GenerateResource.Cache
+C:\Users\Ggil4920\Desktop\m2_asql_project\m2_asql_project\SampleQueueReader\SampleQueueReader\obj\Debug\SampleQueueReader.exe
+C:\Users\Ggil4920\Desktop\m2_asql_project\m2_asql_project\SampleQueueReader\SampleQueueReader\obj\Debug\SampleQueueReader.pdb

@@ -1,0 +1,8 @@
+C:\Users\Ggil4920\Desktop\m2_asql_project\m2_asql_project\PrestigeYoYo\PrestigeYoYo\bin\PrestigeYoYo.dll.config
+C:\Users\Ggil4920\Desktop\m2_asql_project\m2_asql_project\PrestigeYoYo\PrestigeYoYo\bin\PrestigeYoYo.dll
+C:\Users\Ggil4920\Desktop\m2_asql_project\m2_asql_project\PrestigeYoYo\PrestigeYoYo\bin\PrestigeYoYo.pdb
+C:\Users\Ggil4920\Desktop\m2_asql_project\m2_asql_project\PrestigeYoYo\PrestigeYoYo\bin\DAL.dll
+C:\Users\Ggil4920\Desktop\m2_asql_project\m2_asql_project\PrestigeYoYo\PrestigeYoYo\bin\DAL.pdb
+C:\Users\Ggil4920\Desktop\m2_asql_project\m2_asql_project\PrestigeYoYo\PrestigeYoYo\obj\Debug\PrestigeYoYo.csprojResolveAssemblyReference.cache
+C:\Users\Ggil4920\Desktop\m2_asql_project\m2_asql_project\PrestigeYoYo\PrestigeYoYo\obj\Debug\PrestigeYoYo.dll
+C:\Users\Ggil4920\Desktop\m2_asql_project\m2_asql_project\PrestigeYoYo\PrestigeYoYo\obj\Debug\PrestigeYoYo.pdb

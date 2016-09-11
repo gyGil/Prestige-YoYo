@@ -1,0 +1,7 @@
+C:\Users\Ggil4920\Desktop\m2_asql_project\m2_asql_project\SampleQueueReader\HarnessTest\bin\Debug\HarnessTest.dll
+C:\Users\Ggil4920\Desktop\m2_asql_project\m2_asql_project\SampleQueueReader\HarnessTest\bin\Debug\HarnessTest.pdb
+C:\Users\Ggil4920\Desktop\m2_asql_project\m2_asql_project\SampleQueueReader\HarnessTest\bin\Debug\DAL.dll
+C:\Users\Ggil4920\Desktop\m2_asql_project\m2_asql_project\SampleQueueReader\HarnessTest\bin\Debug\DAL.pdb
+C:\Users\Ggil4920\Desktop\m2_asql_project\m2_asql_project\SampleQueueReader\HarnessTest\obj\Debug\HarnessTest.csprojResolveAssemblyReference.cache
+C:\Users\Ggil4920\Desktop\m2_asql_project\m2_asql_project\SampleQueueReader\HarnessTest\obj\Debug\HarnessTest.dll
+C:\Users\Ggil4920\Desktop\m2_asql_project\m2_asql_project\SampleQueueReader\HarnessTest\obj\Debug\HarnessTest.pdb

@@ -1,0 +1,141 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="template.master.cs" Inherits="PrestigeYoYo.template" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+
+    <meta charset="utf-8"/>
+    <title>Prestige YoYo</title>
+    <link rel="stylesheet" media="screen" href="~/resource/220.css"/>
+    <!--<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.csszengarden.com/zengarden.xml"/>-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<meta name="author" content="Dave Shea"/>
+	<meta name="description" content="A demonstration of what can be accomplished visually through CSS-based design."/>
+	<meta name="robots" content="all"/>
+    	<script src="~/resource/2qoj3gsc.js"></script>
+	<style type="text/css">.tk-effra{font-family:"effra",sans-serif;}</style><link href="~/resource/d.css" rel="stylesheet"/><script>try{Typekit.load();}catch(e){}</script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+
+    </asp:ContentPlaceHolder>
+
+</head>
+<body>
+    <div class="page-wrapper">
+        <section class="intro" id="zen-intro">
+	        <header role="banner">
+		        <h1>Prestige YoYo</h1>
+		      <!-- <h2>The Beauty of <abbr title="Cascading Style Sheets">CSS</abbr> Design</h2>-->
+	        </header>
+
+            <div class="summary" id="zen-summary" role="article">	
+            <asp:ContentPlaceHolder ID="IntroContent" runat="server">
+        
+             </asp:ContentPlaceHolder>
+                <!-- <p>A demonstration of what can be accomplished through <abbr title="Cascading Style Sheets">CSS</abbr>-based design. Select any style sheet from the list to load it into this page.</p>-->
+             <!--  <p>Download the example <a href="http://www.csszengarden.com/examples/index" title="This page's source HTML code, not to be modified.">html file</a> and <a href="http://www.csszengarden.com/examples/style.css" title="This page's sample CSS, the file you may modify.">css file</a></p>-->
+	        </div>
+
+<!-- Start place holder -->
+	        <div class="preamble" id="zen-preamble" role="article">
+		        <form id="mainForm" runat="server">
+                    <asp:ContentPlaceHolder ID="MainContent" runat="server">
+        
+                    </asp:ContentPlaceHolder>
+                </form>
+	        </div>
+<!-- End place holder -->
+	    </section>
+
+        <div class="main supporting" id="zen-supporting" role="main">
+
+		    <footer>
+                <!-- If user is logged in, it shows the name. -->
+                <% if (Context.User.Identity.IsAuthenticated) { %>
+			    <a href="Login.aspx" title="Push down for logging-out" class="zen-validate-html"> <%= Context.User.Identity.Name %> Log-out </a>
+                <% } %>
+                
+	<!--		    <a href="http://jigsaw.w3.org/css-validator/check/referer" title="Check the validity of this site’s CSS" class="zen-validate-css">CSS</a>
+			    <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" title="View the Creative Commons license of this site: Attribution-NonCommercial-ShareAlike." class="zen-license">CC</a>
+			    <a href="http://mezzoblue.com/zengarden/faq/#aaa" title="Read about the accessibility of this site" class="zen-accessibility">A11y</a>
+			    <a href="https://github.com/mezzoblue/csszengarden.com" title="Fork this site on Github" class="zen-github">GH</a>-->
+		    </footer>
+
+	    </div>
+
+        <aside class="sidebar" role="complementary">
+		    <div class="wrapper">
+			    <div class="design-selection" id="design-selection">
+				    <h3 class="select"> MENU </h3>
+				    <nav role="navigation">
+					    <ul>
+					    <li>
+						    <a href="firstYield.aspx" class="design-name">First Time Yield</a> on	    <a href="http://andrewlohman.com/" class="designer-name">Pie Chart</a>
+					    </li>					<li>
+						    <a href="finalYield.aspx" class="design-name">Final Yield</a> on			<a href="http://danielmall.com/" class="designer-name">Pie Chart</a>
+					    </li>					<li>
+						    <a href="defectPareto.aspx" class="design-name">Defect categories</a> on		<a href="http://steffen-knoeller.de/" class="designer-name">Pareto Diagram</a>
+					    </li>					<li>
+						    <a href="addSchedule.aspx" class="design-name">Add Schedule</a> for						<a href="http://trentwalton.com/" class="designer-name">Only Admin</a>
+					    </li>			<!--		<li>
+						    <a href="http://www.csszengarden.com/217/" class="design-name">Screen Filler</a> by						<a href="http://elliotjaystocks.com/" class="designer-name">Elliot Jay Stocks</a>
+					    </li>					<li>
+						    <a href="http://www.csszengarden.com/216/" class="design-name">Fountain Kiss</a> by						<a href="http://jeremycarlson.com/" class="designer-name">Jeremy Carlson</a>
+					    </li>					<li>
+						    <a href="http://www.csszengarden.com/215/" class="design-name">A Robot Named Jimmy</a> by						<a href="http://meltmedia.com/" class="designer-name">meltmedia</a>
+					    </li>					<li>
+						    <a href="http://www.csszengarden.com/214/" class="design-name">Verde Moderna</a> by						<a href="http://www.mezzoblue.com/" class="designer-name">Dave Shea</a>
+					    </li>		-->			</ul>
+				    </nav>
+			    </div>
+
+			    <div class="design-archives" id="design-archives">
+				    <h3 class="archives">Archives:</h3>
+				    <nav role="navigation">
+					    <ul>
+                            <!--
+						    <li class="next">
+							    <a href="http://www.csszengarden.com/220/page1">
+								    Next Designs <span class="indicator">›</span>
+							    </a>
+						    </li>
+						    <li class="viewall">
+							    <a href="http://www.mezzoblue.com/zengarden/alldesigns/" title="View every submission to the Zen Garden.">
+								    View All Designs							</a>
+						    </li>
+                            -->
+					    </ul>
+				    </nav>
+			    </div>
+
+			    <div class="zen-resources" id="zen-resources">
+				    <h3 class="resources">Resources:</h3>
+				    <ul>
+					    <li class="view-css">
+						    <a href="http://www.csszengarden.com/220/220.css" title="View the source CSS file of the currently-viewed design.">
+							    View This Design’s <abbr title="Cascading Style Sheets">CSS</abbr>						</a>
+					    </li>
+					    <li class="css-resources">
+						    <a href="http://www.mezzoblue.com/zengarden/resources/" title="Links to great sites with information on using CSS.">
+							    <abbr title="Cascading Style Sheets">CSS</abbr> Resources						</a>
+					    </li>
+					    <li class="zen-faq">
+						    <a href="http://www.mezzoblue.com/zengarden/faq/" title="A list of Frequently Asked Questions about the Zen Garden.">
+							    <abbr title="Frequently Asked Questions">FAQ</abbr>						</a>
+					    </li>
+					    <li class="zen-submit">
+						    <a href="http://www.mezzoblue.com/zengarden/submit/" title="Send in your own CSS file.">
+							    Submit a Design						</a>
+					    </li>
+					    <li class="zen-translations">
+						    <a href="http://www.mezzoblue.com/zengarden/translations/" title="View translated versions of this page.">
+							    Translations						</a>
+					    </li>
+				    </ul>
+			    </div>
+		    </div>
+	</aside>
+        
+    </div>
+</body>
+</html>
